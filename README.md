@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="800">
+  <img src="assets/banner.jpg" width="800">
 </p>
 
 <h1 align="center">Spottrack PC</h1>
@@ -101,5 +101,5 @@ El incumplimiento de estas reglas puede resultar en:
 ---
 
 ```md
-![Banner](assets/banner.png)
+![Banner](assets/banner.jpg)
 ![Logo](assets/logo.png)
