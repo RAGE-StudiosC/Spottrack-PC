@@ -5,9 +5,9 @@
 <h1 align="center">Spottrack PC</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2.0.0-blue">
+  <img src="https://img.shields.io/badge/version-2.0.0-green">
   <img src="https://img.shields.io/badge/platform-Windows-darkblue">
-  <img src="https://img.shields.io/badge/license-Proprietary-red">
+  <img src="https://img.shields.io/badge/license-Proprietary-green">
 </p>
 
 ---
@@ -65,9 +65,9 @@ Con Spottrack PC, tienes un reproductor **independiente**, moderno y potente dir
 
 Descarga la versión más reciente según tu sistema operativo:
 
-- [Spottrack-PC x64.exe](https://github.com/TU_USUARIO/Spottrack-PC/releases/download/v2.0.0/Spottrack-PC-2.0.0-x64-Setup.exe)  
-- [Spottrack-PC x32.exe](https://github.com/TU_USUARIO/Spottrack-PC/releases/download/v2.0.0/Spottrack-PC-2.0.0-ia32-Setup.exe)  
-- [Spottrack-PC universal](https://github.com/TU_USUARIO/Spottrack-PC/releases/download/v2.0.0/Spottrack-PC-2.0.0-x64-Setup.appx)
+- [Spottrack-PC x64.exe](https://github.com/RAGE-StudiosC/Spottrack-PC/releases/download/V2.0.0/Spottrack-x64-Installer.exe)  
+- [Spottrack-PC x32.exe](https://github.com/RAGE-StudiosC/Spottrack-PC/releases/download/V2.0.0/Spottrack-x32-Installer.exe)  
+- [Spottrack-PC universal](https://github.com/RAGE-StudiosC/Spottrack-PC/releases/download/V2.0.0/Spottrack-win-Installer.exe)
 
 ---
 
@@ -94,12 +94,6 @@ El incumplimiento de estas reglas puede resultar en:
 
 ## 📬 Contacto y soporte
 
-- Página oficial: [Spottrack Web](https://spottrack-web.github.io)  
+- Página oficial: [Spottrack Web](https://spottrack-com.github.io)  
 - Discord: [RAGE Studios Discord](https://discord.gg/kRhXAajRDq)  
 - GitHub: [Spottrack-PC](https://github.com/RAGE-StudiosC/Spottrack-PC)
-
----
-
-```md
-![Banner](assets/banner.jpg)
-![Logo](assets/logo.png)
