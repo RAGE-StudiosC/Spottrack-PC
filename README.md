@@ -5,7 +5,7 @@
 <h1 align="center">Spottrack PC</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2.0.0-green">
+  <img src="https://img.shields.io/badge/version-2.0.1-green">
   <img src="https://img.shields.io/badge/platform-Windows-darkblue">
   <img src="https://img.shields.io/badge/license-Proprietary-green">
 </p>
@@ -35,14 +35,29 @@ Con Spottrack PC, tienes un reproductor **independiente**, moderno y potente dir
 
 ## 🆕 Últimas actualizaciones
 
-**Versión 2.0.0**  
-- Nuevo reproductor independiente usando **ytdl-core (propio reparado) y yt-dlp** para audio directo.  
-- Mejora de calidad de audio y rendimiento general.  
-- Nueva interfaz estilo Spotify con identidad visual azul oscuro.  
-- Secciones nuevas: reproducciones recientes, playlists y me gustas.  
-- Sistema de cuentas y sincronización de preferencias.  
-- Optimización de búsqueda usando **yt-search**, sin límites ni restricciones.  
-- Mayor compatibilidad y estabilidad en todas las versiones de Windows soportadas.
+**Versión 2.0.1**  
+
+### Novedades 🔧
+
+Esta actualización se centra en mejorar la estabilidad, rendimiento y seguridad general de la aplicación.
+
+- ✨ Optimización mejorada
+Se realizaron ajustes internos para un funcionamiento más fluido y eficiente.
+
+- 🎶 Sistema de música actualizado
+Mejoras en la reproducción y carga de contenido para una experiencia más estable.
+
+- 🎨 Interfaz mejorada
+Pequeños cambios visuales junto con corrección de errores para una navegación más cómoda.
+
+- 🛡️ Nuevo sistema de infracciones y baneos
+Implementación de un sistema real para moderación y control dentro de la aplicación.
+
+- 🔒 Seguridad reforzada
+Mejoras internas para proteger mejor la aplicación y los datos del usuario.
+
+💡 Nota:
+Se trata de una actualización menor, pero con cambios importantes para mejorar la experiencia general dentro de Spottrack PC.
 
 ---
 
@@ -65,9 +80,18 @@ Con Spottrack PC, tienes un reproductor **independiente**, moderno y potente dir
 
 Descarga la versión más reciente según tu sistema operativo:
 
-- [Spottrack-PC x64.exe](https://github.com/RAGE-StudiosC/Spottrack-PC/releases/download/V2.0.0/Spottrack-x64-Installer.exe)  
-- [Spottrack-PC x32.exe](https://github.com/RAGE-StudiosC/Spottrack-PC/releases/download/V2.0.0/Spottrack-x32-Installer.exe)  
-- [Spottrack-PC universal](https://github.com/RAGE-StudiosC/Spottrack-PC/releases/download/V2.0.0/Spottrack-win-Installer.exe)
+### 🟢 Versión estándar (recomendada)
+- [Spottrack-PC x64.exe](https://github.com/RAGE-StudiosC/Spottrack-PC/releases/download/V2.0.1/Spottrack-x64-Installer.exe)  
+- [Spottrack-PC x32.exe](https://github.com/RAGE-StudiosC/Spottrack-PC/releases/download/V2.0.1/Spottrack-x32-Installer.exe)  
+- [Spottrack-PC universal](https://github.com/RAGE-StudiosC/Spottrack-PC/releases/download/V2.0.1/Spottrack-win-Installer.exe)  
+
+### 🧊 Versión legacy (Windows antiguos)
+- [Spottrack Legacy x64.exe](https://github.com/RAGE-StudiosC/Spottrack-PC/releases/download/V2.0.1/Spottrack-legacy-x64-installer.exe)  
+- [Spottrack Legacy x32.exe](https://github.com/RAGE-StudiosC/Spottrack-PC/releases/download/V2.0.1/Spottrack-legacy-x32-installer.exe)  
+- [Spottrack Legacy universal](https://github.com/RAGE-StudiosC/Spottrack-PC/releases/download/V2.0.1/Spottrack-legacy-win-installer.exe) 
+
+### 🏪 Microsoft Store (RECOMENDADO PARA LA MAYORÍA)
+- [Descargar desde Microsoft Store](https://apps.microsoft.com/detail/9mvs17znk60z?cid=DevShareMCLPCB&hl=es-ES&gl=AR)
 
 ---
 
