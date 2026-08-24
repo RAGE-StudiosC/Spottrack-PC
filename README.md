@@ -81,14 +81,14 @@ Se trata de una actualización menor, pero con cambios importantes para mejorar 
 Descarga la versión más reciente según tu sistema operativo:
 
 ### 🟢 Descarga para Windows 10/11
-- [Spottrack-PC x64.exe](https://github.com/RAGE-StudiosC/Spottrack-PC/releases/download/V2.0.1/Spottrack-x64-Installer.exe)  
-- [Spottrack-PC x32.exe](https://github.com/RAGE-StudiosC/Spottrack-PC/releases/download/V2.0.1/Spottrack-x32-Installer.exe)  
-- [Spottrack-PC universal](https://github.com/RAGE-StudiosC/Spottrack-PC/releases/download/V2.0.1/Spottrack-win-Installer.exe)  
+- [Spottrack-PC x64.exe](https://github.com/RAGE-StudiosC/Spottrack-PC/releases/download/V2.1.1/Spottrack-x64-Installer.exe)  
+- [Spottrack-PC x32.exe](https://github.com/RAGE-StudiosC/Spottrack-PC/releases/download/V2.1.1/Spottrack-x32-Installer.exe)  
+- [Spottrack-PC universal](https://github.com/RAGE-StudiosC/Spottrack-PC/releases/download/V2.1.1/Spottrack-win-Installer.exe)  
 
 ### 🧊 Descarga para Windows 7/8/8.1
-- [Spottrack Legacy x64.exe](https://github.com/RAGE-StudiosC/Spottrack-PC/releases/download/V2.0.1/Spottrack-legacy-x64-installer.exe)  
-- [Spottrack Legacy x32.exe](https://github.com/RAGE-StudiosC/Spottrack-PC/releases/download/V2.0.1/Spottrack-legacy-x32-installer.exe)  
-- [Spottrack Legacy universal](https://github.com/RAGE-StudiosC/Spottrack-PC/releases/download/V2.0.1/Spottrack-legacy-win-installer.exe) 
+- [Spottrack Legacy x64.exe](https://github.com/RAGE-StudiosC/Spottrack-PC/releases/download/V2.1.1/Spottrack-legacy-x64-installer.exe)  
+- [Spottrack Legacy x32.exe](https://github.com/RAGE-StudiosC/Spottrack-PC/releases/download/V2.1.1/Spottrack-legacy-x32-installer.exe)  
+- [Spottrack Legacy universal](https://github.com/RAGE-StudiosC/Spottrack-PC/releases/download/V2.1.1/Spottrack-legacy-win-installer.exe) 
 
 ### 🏪 Microsoft Store (RECOMENDADO PARA LA MAYORÍA WINDOWS 10/11)
 - [Descargar desde Microsoft Store](https://apps.microsoft.com/detail/9mvs17znk60z?cid=DevShareMCLPCB&hl=es-ES&gl=AR)
